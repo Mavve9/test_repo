@@ -1,1 +1,3 @@
-print("My first test!")
+print("first test!")
+
+print("Something changed")
